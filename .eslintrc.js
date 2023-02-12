@@ -20,5 +20,8 @@ module.exports = {
         "semi": ["error", "always"],
         "quotes": ["error", "double"],
         "camelcase": "error"
-    }
+    },
+    "ignorePatterns": [
+        "AdressenLijst.js"
+    ]
 }
